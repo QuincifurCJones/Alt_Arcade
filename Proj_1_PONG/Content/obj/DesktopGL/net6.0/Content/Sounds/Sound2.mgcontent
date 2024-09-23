@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>g:/MonoGames/last_pong/Content/Sounds/Sound2.mp3</SourceFile>
+  <SourceTime>2024-09-17T21:28:05.4640338-06:00</SourceTime>
+  <DestFile>g:/MonoGames/last_pong/Content/bin/DesktopGL/Content/Sounds/Sound2.xnb</DestFile>
+  <DestTime>2024-09-22T19:52:54.1509825-06:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T05:44:56-06:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T05:44:56-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
